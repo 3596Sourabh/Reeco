@@ -1,0 +1,40 @@
+
+.orders {
+    margin-left: auto;
+    padding: 2px;
+    display: inline-flex;
+    flex-direction: row;
+
+  }
+  
+  .backbutton {
+    margin-right: 10px;
+    margin-top: 1px;
+    margin: 1px;
+    padding: 1px 2px;
+ 
+    background-color: #1c599a;
+    flex-direction: right;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    align-items: right;
+    align-self: self-end;
+
+  }
+
+  .ApproveButton{
+    margin-left: 10px;
+    margin-top: 1px;
+    margin: 1px;
+    padding: 1px 2px;
+ 
+    background-color: #155ead;
+    flex-direction: right;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    align-items: right;
+    align-self: self-end;
+  }
+  
